@@ -3,7 +3,7 @@
 ## Project Overview
 This program is a simple **spelling corrector** that identifies misspelled words in a sentence and suggests a list of the top five most similar words from the dictionary using **Edit Distance**, implemented with **Dynamic Programming**.
 
-Given a user-input sentence, the program highlights misspelled words, calculates their edit distance from dictionary entries (`words.txt`), and provides correction suggestions. The core of the algorithm is based on lecture material from April 17.
+Given a user-input sentence, the program highlights misspelled words, calculates their edit distance from dictionary entries (`words.txt`), and provides correction suggestions.
 
 ---
 
